@@ -1,6 +1,6 @@
 # Maratona-Explorer-2
 
-![image](https://user-images.githubusercontent.com/72473993/195986155-96365835-efe2-47ad-88eb-56c7cdf5364f.png)
+![preview](./.github/preview.png)
 
 Site desenvolvido na Maratona Explorer 02 da Rocketseat
 
